@@ -7,3 +7,5 @@ I think the Italian population moving to Uruguay is an interesting example of cu
 # **Learn More**
 For more information on Italian emigration to Uruguay please check out this article: [ITALIAN IMMIGRATION IN URUGUAY
 ](https://blogs.dickinson.edu/italian-diaspora/limmigrazione-e-uruguay/english-version/?utm_source=chatgpt.com)
+
+<a href="https://example.com">ITALIAN IMMIGRATION IN URUGUAY</a> by <a href="https://example.com">Antonio Crispino</a> is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
